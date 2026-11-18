@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+numpy
+scipy
+aiohttp
+pyautogui
+cryptography
+uiautomation; sys_platform == "win32"
